@@ -50,10 +50,13 @@ This dashboard aims to provide clear insights to support adoption strategies and
 ## 📷 Dashboard Preview
 
 ### Main Overview
-(screen1.png)
+![Dashboard 1](screen1.png)
 
 ### Detailed Analysis
-![Dashboard 2](images/dashboard_2.png)
+![Dashboard 2](screen2.png)
+
+### About project
+![Dashboard 3](screen3.png)
 
 ---
 
