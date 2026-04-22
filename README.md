@@ -55,7 +55,7 @@ This dashboard aims to provide clear insights to support adoption strategies and
 ### Detailed Analysis
 ![Dashboard 2](screen2.png)
 
-### About project
+### About Project
 ![Dashboard 3](screen3.png)
 
 ---
@@ -82,9 +82,9 @@ This dashboard aims to provide clear insights to support adoption strategies and
 
 ## 📂 Repository Structure
 
-/images -> dashboard screenshots
-/report -> Power BI file (.pbix)
-README.md
+- /images -> dashboard screenshots
+- /report -> Power BI file (.pbix)
+- README.md
 
 
 ---
